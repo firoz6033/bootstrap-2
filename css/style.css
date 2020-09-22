@@ -1,0 +1,351 @@
+/* author:Firoz Ahmad
+mail:firozahmad6033@gmail.com
+website:............... */
+
+/* 
+===index===
+1.header
+2.Fusce at 
+3.Facilisis
+4.Ante donec
+5.Blandit rhoncus  
+6.Placerat
+7.footer 
+*/
+
+/* global css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;700;900&display=swap');
+body{
+    font-family: 'Roboto Slab', serif;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img-center{
+    display: block;
+    margin: 0 auto;
+}
+.no-padding{
+    padding: 0px;
+}
+.cstm-btn-one{
+    display: block;
+    margin: 0 auto;
+    background-color: white;
+    color: #612316;
+    border-radius: 30px;
+    padding: 6px 16px;
+    border: none;
+    margin-top: 70px;
+    margin-bottom: 140px;
+
+
+}
+.cstm-btn-two{
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px 15px;
+    display: block;
+    
+    border-radius: 30px;
+    background-color: white;
+    border: none;
+    margin-top: 36px;
+
+}
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+h6{
+
+}
+p{
+
+}
+/* theme css */
+header{
+    background-color:#edeff1!important;
+    
+
+}
+.nav-link{
+    color: #31353e;
+    margin: 0px 10px;
+    transition: 0.4s ease-in-out;
+    font-weight: 400;
+}
+.nav-link:hover{
+    border-radius: 25px;
+    background-color: #dd4b2b;
+    color: white;
+    padding: 6px 20px;
+}
+    
+/* hero section */
+.hero{
+    width: 100%;
+    float: left;
+    background-image: url(../img/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center top;
+    padding: 25px 0px;
+    background-color: rgb(0,0,0,0.2);
+    background-blend-mode: overlay;
+}
+.banner-title{
+    text-align: center;
+    margin-top: 425px;
+    margin-bottom: 51px;
+}
+.banner-title h2{
+    color: white;
+    font-size: 70px;
+
+}
+.banner-title h4{
+    color: white;
+    font-size: 27px;
+    margin-bottom: 30px;
+    
+
+}
+
+}
+.hero-one.hero-two.hero-three{
+    padding: 25px 0px;
+    text-align: center;
+    margin-top: 63px;
+    
+}
+.hero h4{
+    color: white;
+    font-weight: bold;
+    margin: 25px 0px;
+    text-align: center;
+
+}
+.hero p{
+    color: white;
+    font-weight: 300;
+    text-align: center;
+
+}
+.news{
+    width: 100%;
+    float: left;
+    background-color: #edeff1;
+}
+.news-title{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    
+}
+.news-title h2{
+    font-weight: bold;
+    
+}
+.news-one{
+    margin: 35px 0px;
+    padding-top: 50px;
+}
+.news-one h4{
+    font-size: 24px;
+    text-align: center;
+    margin: 25px 0px;
+    color: #31353e;
+    font-weight: 600;
+
+}
+.news-one p{
+    font-size: 15px;
+    text-align: center;
+    color: #575a60;
+
+
+}
+.news-letter{
+    width: 100%;
+    float: left;
+    background-image: url(../img/news-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(0,0,0,0.2);
+    background-blend-mode: overlay;
+}
+.newsletter-title{
+    margin: 0 auto;
+}
+.newsletter-title h2{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+
+}
+.newsletter-title p{
+    color: white;
+    text-align: center;
+    
+}
+.news-form{
+
+}
+.form-control{
+    border-radius: 20px;
+    background: transparent;
+    color: #a2917f;
+    position: relative;
+    padding: 6px 22px;
+}
+.newsletter-btn{
+    background-color: white;
+    color: #612316;
+    border-radius: 20px;
+    padding: 7px 40px;
+    border: none;
+    position: absolute;
+    right: 11px;
+    top: 0px;
+
+
+}
+.sign-up-class{
+    width: 100%;
+    float: left;
+    background-color: #fff;
+    
+}
+.sign-up-content{
+    
+
+}
+.sign-up-content h2{
+    margin: 50px 0px;
+    font-weight: 500;
+    
+}
+
+.sign-up-content p{
+    margin-bottom: 20px;
+    
+}
+.sign-up-img1{
+
+    
+    
+}
+.sign-up-btn1{
+    color: white;
+background-color: #dd4b2b;
+border-radius: 20px;
+padding: 7px 40px;
+border: none;
+
+}
+
+.sign-up-img1 img{
+    width: 100%;
+
+}
+.sign-up-img2{
+    width: 100%;
+    margin-top: 40px;
+}
+.sign-up-img2 img{
+    width: 100%;
+}
+.sign-up-btn2{
+    color: white;
+    background-color: #4b4e73;
+    border-radius: 20px;
+    padding: 7px 40px;
+    border: none;
+    
+
+}
+.roadmap{
+    width: 100%;
+    float: left;
+    background-color: #d75d0e;
+    color: white;
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    float: left;
+    background-image: url(../img/footer-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    padding: 100px 0px;
+    background-color: rgb(0,0,0,0.2);
+    background-blend-mode: overlay;
+}
+
+@media(max-width:576px){
+    .banner-title h2{
+        color: white;
+        font-size: 35px;
+
+} 
+.nav-link:hover{
+    width: 27%;
+    color: #fff;
+}
+.sign-up-btn1{
+    margin-bottom: 30px;
+}
+
+.banner-title h4{
+    font-size: 25px;
+    font-weight: 500;
+}  
+    
+  
+    .hero{
+        background-size: cover;
+        background-position: center top;
+    }
+    footer{
+        padding: 50px 0px;
+    }
+
+
+
+}
+@media(max-width:768px) and (min-width:577px){
+    .banner-title h2{
+        color: white;
+        font-size: 35px;
+
+} 
+.nav-link:hover{
+    width: 25%;
+    color: #fff;
+}
+.sign-up-img1 img {
+    width: 100%;
+    margin-top: 35px;
+}
+}
+@media(max-width:992px) and (min-width:769px){
+    .nav-link:hover{
+        width: 25%;
+        color: #fff;
+    }
+
+}
+
+
+
+
